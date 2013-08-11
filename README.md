@@ -27,9 +27,18 @@ To Do List try-out
 
 **Here are some codes**
 
-|Colour|Multiplier|
-|------|----------|
-|Black |0         |
-|Brown |1         |  
-|Red   |2         |
-|Orange|3         |
+|Colour|Multiplier/Value|
+|------|----------------|
+|Black |0               |
+|Brown |1               |
+|Red   |2               |
+|Orange|3               |
+|Yellow|4               |
+|Green |5               |
+|Blue  |6               |
+|Violet|7               |
+|Gray  |8               |
+|White |9               |
+
+And of course, the rhyme I learned in college (slightly modified to not be so sexist):
+Big-hair Bands Rock Our Young Girls But Violet Goes Walkabout....
