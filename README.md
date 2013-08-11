@@ -22,6 +22,7 @@ To Do List try-out
 1. They resist.
 2. They have colours bands.
 3. They are small
+4. But alas, resistance is futile...
 
 **Here are some codes**
 
