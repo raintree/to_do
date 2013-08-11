@@ -23,6 +23,7 @@ To Do List try-out
 2. They have colours bands.
 3. They are small
 4. But alas, resistance is futile...
+(https://upload.wikimedia.org/wikipedia/commons/6/69/Burnt_resistor.jpg)
 
 **Here are some codes**
 
